@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to right,indigo,cyan);
+    text-align: center;
+}
+h1{
+    margin-top: 8rem;
+}
+
+.color1{
+    margin-top: 3rem;
+}
